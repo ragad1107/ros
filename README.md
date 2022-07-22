@@ -1,3 +1,2 @@
-# ros
-ros installation
+# ros2
 
